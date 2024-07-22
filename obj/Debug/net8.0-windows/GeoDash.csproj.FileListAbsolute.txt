@@ -1,0 +1,17 @@
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\bin\Debug\net8.0-windows\GeoDash.exe
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\bin\Debug\net8.0-windows\GeoDash.deps.json
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\bin\Debug\net8.0-windows\GeoDash.runtimeconfig.json
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\bin\Debug\net8.0-windows\GeoDash.dll
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\bin\Debug\net8.0-windows\GeoDash.pdb
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.Form1.resources
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.Properties.Resources.resources
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.csproj.GenerateResource.cache
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.AssemblyInfoInputs.cache
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.AssemblyInfo.cs
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.csproj.CoreCompileInputs.cache
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.dll
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\refint\GeoDash.dll
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.pdb
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\GeoDash.genruntimeconfig.cache
+C:\Users\Evan Pillow\source\repos\GeoDash\GeoDash\obj\Debug\net8.0-windows\ref\GeoDash.dll
